@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/guyyaffear/React-Google-Books-Search#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "classnames": "^2.2.6",
     "concurrently": "^5.1.0",
     "cors": "^2.8.5",
